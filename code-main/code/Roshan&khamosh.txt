@@ -1,0 +1,30 @@
+این دستور میاد ورودی بهش میدیم بعد این کد در بخش سریال مانیتور میاد خاموش و روشن می کند در لامپ
+
+      conat int ledpin=12;
+     
+        void setup(){
+
+   pinMode(ledpin,OUTPUT);
+
+    Serail.begin(9600);
+}
+      void loop(){
+
+    if(Serial.available()>0){
+
+  Serail value=Serial.readString();
+
+   if(Serial.available()>0){
+ 
+ string value=Serial.readString();
+
+if(value =="ROSHAN"){
+
+  digitalWrite(ledpin,HiGH);
+
+  }else if(value == "khamosh"){
+
+  digitalWrite(ledpin,LOW);
+};
+};
+}
