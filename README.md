@@ -1,65 +1,63 @@
 
 #project_okhrav-main
 ## ریز پردازنده
-در اینجا گزارش کار ها و کد های نوشته شده برای برد آردوینو و مینی پروژه ها گداشته می شود ، فایل کد های قابل اجرا در نرم افزار Arduino IDE در پوشه Arduino File قزار داده می شود و در اینجا توضیحات تکمیلی هر کد داده می شود.
+ فایل کد های قابل اجرا در نرم افزار Arduino IDE در پوشه Arduino File قزار داده می شود و در اینجا توضیحات تکمیلی هر کد داده می شود.
 #
 
 [1 چشمک زن](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/1_one_led_blinker).
 
-[2 چشمک زن با دو عدد LED](https://github.com/Arash589/project_okhravi/tree/main/Arduino%20File/14030716)
+[2 چشمک زن با دو عدد LED](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/2_Two_Led_Blinker).
 
-[3 خاموش و روشن کردن LED با ارسال پیام سریال](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030716)
+[3 خاموش و روشن کردن LED با ارسال پیام سریال](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/3_On_Off_Led_By_Serial).
 
-[4 ماشین حساب ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030716)
+[4 ماشین حساب ](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/4_Calculator_Serial)
 
-[5 نمودار سینوس ، کسیسنوس ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030723)
+[5 نمودار سینوس ، کسیسنوس ](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/5_Sin_Cos)
 
-[6 روشن شدن ال ای دی با کلید ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030723)
+[6 روشن شدن ال ای دی با کلید ](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/6_Pushbutton_LED_ON_OFF/Pushbutton_LED_ON_OFF)
 
-[7 رقص نور](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030730)
+[7 رقص نور](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/7_danclight)
 
-[8 تاس الکترونیکی](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030730)
+[8 تاس الکترونیکی](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/8_Electronic_dice)
 
-[9 روشن شدن ال ای دی با پتاسیومتر](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030730)
+[9 روشن شدن ال ای دی با پتاسیومتر](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/9_Potentiometer_LED)
 
-[10 تغییر ولتاژ با پتاسیومتر و نمایش ولتاژ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030730)
+[10 تغییر ولتاژ با پتاسیومتر و نمایش ولتاژ](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/10_Potentiometer_Voltage)
 
-[11 خاموش روشن شدن ال ای دی به صورت از شدت کم به زیاد](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030730)
+[11 خاموش روشن شدن ال ای دی به صورت از شدت کم به زیاد](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/11_LED_LowtoHigh)
 
-[12 راه اندازی ال سی دی کاراکتری](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807/1%20LCD%20Print%20Hello%20World)
+[12 راه اندازی ال سی دی کاراکتری](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/12LCDprinthello)
 
-[13 نمایش آدمک روی ال سی دی](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807/2%20LCD%20Show%20Character)
+[13 نمایش آدمک روی ال سی دی](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/13_LCD_Show_Character)
 
-[14 سنسور التراسونیک](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030807/3%20UltraSonic)
+[14 سنسور التراسونیک](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/14UltraSonic)
 
-[15 راه اندازی سون سگمنت](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814/1%20SevenSegment)
+[15 راه اندازی سون سگمنت](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/15_SevenSegment)
 
-[16 راه اندازی سنسور فتوسل](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814/2%20Photocell)
+[16 راه اندازی سنسور فتوسل](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/16_Photocell)
 
-[17 اتصال اسپیکر به برد و پخش قطعه آهنگ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030814/3%20Speaker)
+[17 اتصال اسپیکر به برد و پخش قطعه آهنگ](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/17_Speaker)
 
-[18 پیانو](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030821/1%20PIANO)
+[18 پیانو](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/18_piano)
 
-[19 نمایش دما با LM35](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030821/2%20LM35)
+[19 نمایش دما با LM35](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/19_lm35)
 
-[20 دما و رطوبت با DHT11](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030821/3%20DHT11)
+[20 دما و رطوبت با DHT11](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/20_DHT11)
 
-[21 اتصال دو برد آردوینو و روشن شدن با پتاسومتر](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828/1%20Master_Slave%20POT)
+[21 اتصال دو برد آردوینو و روشن شدن با پتاسومتر](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/21_MS)
 
-[22 اتصال دو برد آردوینو و روشن شدن با دستور سریال](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828/2%20Master_Slave%20Serial)
+[22 اتصال دو برد آردوینو و روشن شدن با دستور سریال](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/22_MS)
 
-[23 راه اندازی موتور DC با L298N](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828/3%20L298N)
+[23 راه اندازی موتور DC با L298N](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/23_L298n)
 
-[24 راه اندازی موتور DC با L298N با پتاسومتر](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030828/4%20L298N%20POT)
+[25 راه اندازی کیپد 4 در 4](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/25_Keypad_Launch)
 
-[25 راه اندازی کیپد 4 در 4](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030905/1%20Keypad%20Launch)
+[26 ماشین حساب با کیپد ](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/26_Calculator_With_Keypad)
 
-[26 ماشین حساب با کیپد ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030905/2%20Calculator%20With%20Keypad)
+[27 راه اندازی جوی استیک ](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/27_Joystick_Launch)
 
-[27 راه اندازی جوی استیک ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030905/3%20Joystick%20Launch)
+[28 تغییر وضعیت ال ای دی با جوی استیک](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/28_Joystick_LED_Reaction)
 
-[28 تغییر وضعیت ال ای دی با جوی استیک](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030905/4%20Joystick%20LED%20Reaction)
+[29 راه اندازی سنسور HW201](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/29_HW201)
 
-[29 راه اندازی سنسور HW201](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030912/1%20HW201)
-
-[30 راه اندازی ماژول بلوتوث HC05 ](https://github.com/mohsenkmt/MicroProcessor/tree/main/Arduino%20File/14030912/2%20HC05)
+[30 راه اندازی ماژول بلوتوث HC05 ](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/30_HC05)
