@@ -8,7 +8,7 @@
 همچنین می توانیم به جای استفاده از ال ای دی روی برد ، یک ال ای دی دیگر به پایه 13 متصل کنیم:
 
 <p align="center">
-  <img src="https://github.com/Arash589/project_okhravi/tree/main/code-main/code/1_one_led_blinker1.png" alt="LED Blinker" />
+  <img src="https://github.com/Arash589/project_okhravi/blob/main/code-main/code/1_one_led_blinker/1_one_led_blinker1.png" />
 </p>
 
 # نتیجه گیری : 
