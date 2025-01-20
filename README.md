@@ -1,7 +1,7 @@
 
 #project_okhrav-main
 ## ریز پردازنده
- فایل کد های قابل اجرا در نرم افزار Arduino IDE در پوشه Arduino File قزار داده می شود و در اینجا توضیحات تکمیلی هر کد داده می شود.
+ فایل کد های قابل اجرا در نرم افزار Arduino IDE در پوشه Arduino File قرار داده می شود و در اینجا توضیحات تکمیلی هر کد داده می شود.
 #
 
 [1 چشمک زن](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/1_one_led_blinker).
