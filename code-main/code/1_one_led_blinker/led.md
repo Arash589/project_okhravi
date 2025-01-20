@@ -1,4 +1,4 @@
-[چشمک زن](https://github.com/Arash589/project_okhravi/tree/main/code-main/code/1_one_led_blinker.ino)
+[چشمک زن](https://github.com/Arash589/project_okhravi/blob/main/code-main/code/1_one_led_blinker/one_led_blinker.ino)
 <p align="center">
   <img src="https://github.com/mohsenkmt/MicroProcessor/raw/main/Photo/1_one_led_blinker.png" alt="LED Blinker" />
 </p>
